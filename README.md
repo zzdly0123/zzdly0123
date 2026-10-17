@@ -7,4 +7,7 @@
 - From now on, here would be my secret dairy and I would write down my heart here.
 ---
 ## THANK U
-- Thank you all 
+- Thank you all
+---
+## MY DIARY
+- [click to read my heart](dIary/2026-10.md)
